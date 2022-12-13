@@ -1,0 +1,1 @@
+export 'package:task/ui/main/main_controller.dart';
